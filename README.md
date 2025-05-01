@@ -15,6 +15,7 @@
    - Open SQL Server Management Studio (SSMS) and click connect
      ![image](https://github.com/user-attachments/assets/ec607e15-c391-4e36-bec8-df86161e74c8)
    - At the left Expand the Object Explorer panel and **Right-click** on the target database (where you want to import the data).
+     
      ![image](https://github.com/user-attachments/assets/de3b3378-d3c0-4ad6-b703-6651133d6c53)
    - Navigate to Tasks → Select Import Flat File - >This opens the Import Flat File Wizard.
    - Click Next
