@@ -1,4 +1,4 @@
-# Bank-Loan-Performance-Analysis-Using-Sql
+# 🏦🔍 Bank-Loan-Performance-Analysis-Using-Sql
 - This project focuses on Bank Loan Performance Analysis using SQL, targeting key financial and operational metrics.
 - This project utilizes SQL Server to perform in-depth analysis of bank loan data, focusing on efficient data extraction, transformation, and querying.
 - It tracks Total Loan Applications, Month-to-Date (MTD) Applications, Funded and Received Amounts, Average Interest Rate, and Debt-to-Income (DTI) Ratio.
@@ -28,7 +28,7 @@
    - Click Next again, and finally, click Finish to complete the Import.
    - A New Table is now successfully created in the database.
 
-## Dashboard 1: Summary
+## 🧮 Dashboard 1: Summary
 **Key Performance Indicators (KPIs) Requirements:**
 - **Total Loan Applications:** Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
 
@@ -55,7 +55,7 @@
 
 ![image](https://github.com/user-attachments/assets/f8a20652-690c-4e57-8108-7a208b532399)
 
-## Dashboard 2: Overview 
+## 🧮 Dashboard 2: Overview 
 
 - **Monthly Loan Application Summary**:
 
@@ -81,11 +81,17 @@
   
 ![image](https://github.com/user-attachments/assets/dc6f9045-8928-44c8-aa8f-ff6151869a72)
 
-## Dashboard 3: Details
+## 🧮 Dashboard 3: Details
 
 ![image](https://github.com/user-attachments/assets/2d7c4af1-8686-4a11-9d00-10d151931fdd)
 
-## Conclusion
+## 📁 Files Included:
+ - Query_Documentation.pdf
+ - Queries.sql
+ - All_Queries.sql
+ - Individual Queries.sql
+
+## ✍️ Conclusion:
 The project will demonstrate how SQL Server can serve as a powerful platform for storing, querying, and analyzing bank loan data. It will help decision-makers monitor loan performance and optimize risk management practices based on reliable data insights.
 
 Also I’d like to thank my friend **Sunitha Mekala** 👫🙏 for being an incredible source of inspiration.
